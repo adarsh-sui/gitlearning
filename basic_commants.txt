@@ -5,3 +5,5 @@ git status
 git add -A 
 
 git commit -m "any message"
+
+git branch
